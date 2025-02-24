@@ -8,7 +8,6 @@ The Pokémon Battle Game is an interactive command-line game that allows players
 ## Features
 
 - **Catch Pokémon**: Build a team of up to 6 Pokémon fetched from the PokéAPI.
-- **Customisable Moves**: Players can select four moves for each Pokémon in their team.
 - **Randomised Gym Leader Battles**: Gym Leaders are assigned randomly, with unique teams.
 - **Turn-Based Battle System**: Engage in strategic battles where type effectiveness plays a role.
 - **Real-Time Battle Simulation**: Moves are selected randomly for Gym Leaders, ensuring a challenging encounter.
